@@ -1,11 +1,8 @@
-  .link-card {
-    width: 100%;
-    box-sizing: border-box;
-    background: #fff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    overflow: hidden;
-  }
+  .link-card-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
   .link-card-link {
     display: block;
     color: inherit;
