@@ -16,6 +16,8 @@
   display: block;
   width: 100%;
   height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
 }
 
 .link-card-content {
@@ -28,7 +30,7 @@
 .link-card-favicon {
   width: 48px;
   height: 48px;
-  object-fit: cover;
+  object-fit: contain;
   flex-shrink: 0;
 }
 
